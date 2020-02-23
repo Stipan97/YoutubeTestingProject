@@ -46,5 +46,5 @@ This test contains two tests. First one searches for "We Are FERIT" and looking 
 This test contains four tests. Tests for like, unlike, dislike and undislike. This test in every test will click like or dislike and check like/dislike counter to see is there any change to verify that server accepts action.
 <img src="https://user-images.githubusercontent.com/44756029/75101652-06013880-55e0-11ea-86ce-7c513d7266bf.gif" width="50%"><img src="https://user-images.githubusercontent.com/44756029/75101653-07326580-55e0-11ea-9a1a-658e95932fbf.gif" width="50%">
 ### SubscribeTest
-This test contains three tests. Tests for subscribe, unsubscribe and turn of all notifications.
+This test contains three tests. Tests for subscribe, unsubscribe and turn on all notifications.
 <img src="https://user-images.githubusercontent.com/44756029/75101635-af93fa00-55df-11ea-9860-bdd65de4de4a.gif" width="50%"><img src="https://user-images.githubusercontent.com/44756029/75101631-a73bbf00-55df-11ea-9acb-b37f6a52be45.gif" width="50%">
