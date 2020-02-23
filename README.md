@@ -29,15 +29,22 @@ git clone https://github.com/Stipan97/YoutubeTestingProject.git
 ## How to run tests
 1. You need to have opened IntelliJ with project
 2. Right click on testng.xml file
+<img src="https://user-images.githubusercontent.com/44756029/75101075-5c1dae00-55d7-11ea-9e94-1e32b5742dac.png" width="75%">
+
 ### Annotation
 Sometimes test for likes or dislikes can fail. Because of bot prevention.
 
-#Test description
+# Test description
+Previews are on 50% of speed.
 ### LoginTest
 This test logins in test account over a google gmail account. Test inputs e-mail and password of account.
+<img src="https://user-images.githubusercontent.com/44756029/75101627-9ab76680-55df-11ea-8366-0a7a6c8361eb.gif" width="100%">
 ### SearchTestFERIT
-This test contains two tests. First one searches for "We Are FERIT" and looking is there any video that have href of that video if there is one test will open it. Second test searches for same video but with another search input this time we are searching for video with "FERIT Osijek" input search. 
+This test contains two tests. First one searches for "We Are FERIT" and looking is there any video that have href of that video if there is one test will open it. Second test searches for same video but with another search input this time we are searching for video with "FERIT Osijek" input search.
+<img src="https://user-images.githubusercontent.com/44756029/75101628-9db25700-55df-11ea-84db-28575ab0c4b0.gif" width="100%">
 ### LikeDislikeTest
 This test contains four tests. Tests for like, unlike, dislike and undislike. This test in every test will click like or dislike and check like/dislike counter to see is there any change to verify that server accepts action.
+<img src="https://user-images.githubusercontent.com/44756029/75101652-06013880-55e0-11ea-86ce-7c513d7266bf.gif" width="50%"><img src="https://user-images.githubusercontent.com/44756029/75101653-07326580-55e0-11ea-9a1a-658e95932fbf.gif" width="50%">
 ### SubscribeTest
 This test contains three tests. Tests for subscribe, unsubscribe and turn of all notifications.
+<img src="https://user-images.githubusercontent.com/44756029/75101635-af93fa00-55df-11ea-9860-bdd65de4de4a.gif" width="50%"><img src="https://user-images.githubusercontent.com/44756029/75101631-a73bbf00-55df-11ea-9acb-b37f6a52be45.gif" width="50%">
